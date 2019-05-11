@@ -1,0 +1,28 @@
+{
+  "name": "twitter_bot",
+  "version": "1.0.0",
+  "description": "Twitter bot for Comunicados Oficiales",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlazarte28/comunicado-twitter-bot.git"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "comunicado",
+    "oficial"
+  ],
+  "author": "Jason Lazarte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlazarte28/comunicado-twitter-bot/issues"
+  },
+  "homepage": "https://github.com/jlazarte28/comunicado-twitter-bot#readme",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
